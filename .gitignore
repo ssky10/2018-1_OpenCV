@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Debug files
+*/*/*/Debug
+*/*/Debug
+*/Debug
+
+# vs
+*/*/*/.vs
+*/*/.vs
+*/.vs
